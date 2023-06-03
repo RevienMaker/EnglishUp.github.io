@@ -1,0 +1,21 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    padding: 0;
+    position: sticky;
+    top: -1px;
+}
+.container-fluid{
+    background-color: rgb(58, 110, 231);
+}
+.salir-{
+    width: 30px;
+}
+.container-fluid{
+    padding: 20px;
+} 
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 600;
+}

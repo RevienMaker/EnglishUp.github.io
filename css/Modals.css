@@ -1,0 +1,29 @@
+.contenido{
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+.contenido h2{
+    font-size: 33px;
+    font-weight: bold;
+}
+.resumen span{
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.video iframe{
+    width: 100%;
+    height: 316px;
+    border-radius: 10px;
+}
+.modals-for-recomendation{
+    margin-top: 20px;
+}
+.pdf a{
+    color: rgb(209, 68, 68);
+    font-size: 25px;
+}

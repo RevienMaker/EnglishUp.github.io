@@ -1,0 +1,57 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.contenido{
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+.contenido h2{
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+    font-weight: 800;
+    background-color: rgb(58, 110, 231);
+    color: white;
+    padding: 15px 25px;
+    margin: 20px 0;
+    border-radius: 30px;
+}
+.resumen span{
+    font-weight: 400;
+    font-size: 30px;
+    color: rgb(58, 110, 231);
+}
+.contenido span{
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 50px;
+    color: rgb(58, 110, 231);
+}
+p{
+    font-size: 25px;
+    font-weight: 300;
+}
+.video iframe{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    border: 10px solid rgb(209, 68, 68);
+}
+.resumen img{
+    width: 100%;
+    border-radius: 10px;
+}
+.modals-for-recomendation{
+    margin-top: 20px;
+}
+.imagen-fondo{
+    background-color: white;
+}
+.pdf a{
+    color: rgb(209, 68, 68);
+    font-size: 25px;
+}

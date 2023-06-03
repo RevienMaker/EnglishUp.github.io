@@ -1,0 +1,19 @@
+span svg{
+    color: black;
+}
+.excepciones{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(110, 180, 255, 0.281);
+}
+.nota{
+    padding: 20px;
+    border: 2px solid rgba(128, 128, 128, 0.429);
+    border-radius: 20px;
+}
+.dividir-oscuro{
+    padding: 10px 20px;
+    background-color: rgba(225, 213, 198, 0.429);
+    border-radius: 20px;
+    margin: 15px 0;
+}
